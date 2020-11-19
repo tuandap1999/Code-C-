@@ -129,12 +129,11 @@ int main(){
 	while (i <= n)
 	{
 		if(n % i == 0){
-                if (i > solonnhat)
-                {
-                    solonthu2=solonnhat;
-                    solonnhat=i;
-                    
-                }
+            if (i > solonnhat)
+            {
+                solonthu2=solonnhat;
+                solonnhat=i;
+            }
                 
 		}
         i++;
