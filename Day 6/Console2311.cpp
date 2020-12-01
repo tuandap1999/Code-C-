@@ -31,5 +31,4 @@ int main(){
             
         }
         printf("Chot : %2f", S);
-    
 }
